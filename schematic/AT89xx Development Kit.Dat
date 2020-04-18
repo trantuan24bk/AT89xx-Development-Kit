@@ -1,0 +1,30 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~AT89xx Development Kit.PrjPcb|ReportField=ProjectFullPath~F:\Dropbox\Projects\AT89xx Development Kit\AT89xx Development Kit (Rev 1.1.0)\AT89xx Development Kit.PrjPcb|ReportField=Title~Bill of Materials For Project [AT89xx Development Kit.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~59|ReportField=ReportTime~9:21:02 AM|ReportField=ReportDate~1/26/2015|ReportField=ReportDateTime~1/26/2015 9:21:02 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~776 Ton Duc Thang|ReportField=Address2~Lien Chieu, Da Nang|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~Tran Tuan|ReportField=CheckedBy~|ReportField=CompanyName~Vnelektronics Co.,Ltd|ReportField=CurrentDate~1/26/2015|ReportField=CurrentTime~9:20:57 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\Dropbox\Projects\AT89xx Development Kit\AT89xx Development Kit (Rev 1.1.0)\AT89xx Development Kit.SchDoc|ReportField=DocumentName~AT89xx Development Kit.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Tran Tuan|ReportField=Engineer~Tran Tuan|ReportField=ImagePath~|ReportField=ModifiedDate~1/26/2015|ReportField=Organization~Vnelektronics Co.,Ltd|ReportField=ProjectName~AT89xx Development Kit.PrjPcb|ReportField=Revision~1.1|ReportField=Rule~|ReportField=SheetNumber~01|ReportField=SheetTotal~01|ReportField=Time~|ReportField=Title~AT89xx Development Kit|ReportField=DataSourceFileName~AT89xx Development Kit.PrjPcb|ReportField=DataSourceFullPath~F:\Dropbox\Projects\AT89xx Development Kit\AT89xx Development Kit (Rev 1.1.0)\AT89xx Development Kit.PrjPcb
+AT89S52|AT89S52, 8k Byte Flash Memory , 40 Pin|AT1|de gat xanh dip 40|AT89S52|1
+RESET|Switch button 2 pin|BUTTON|BUTTON 2PIN TRON|SW2|1
+22pF|Cap np  1pF - 472pF|C1, C3, C8, C9|C0603|CN1|4
+100nF|Cap np  1pF - 472pF, Cap np  1pF - 472pF, Cap np 104 => 105pF, Cap np 104 => 105pF, Cap np 104 => 105pF, Cap np 104 => 105pF|C2, C4, C5, C6, C7, C11|C0805|CN1, CN1, CN2, CN2, CN2, CN2|6
+10uF|Cap P  0,1uF < 22uF , 16 - 50V|C10|C1210|CP1|1
+SS14|Diode 1A|D1|SS14|D1A|1
+3V6|Diode Zenner|D2, D3|1N5223|DZ|2
+PORT3|Hedear 8|HD1|Header_8|Hed8|1
+PORT1|Hedear 8|HD2|Header_8|Hed8|1
+PORT0|Hedear 8|HD3|Header_8|Hed8|1
+PORT2|Hedear 8|HD4|Header_8|Hed8|1
+ATmega8-SMD|High-performance, Low-power Atmel  ®  AVR  ®   8-bit Microcontroller|IC1|ATMEGA_8_SMD|ATmega8_SMD_32pin|1
+Programmer|Header 5 (Green)|ISP|Header_5|Hed5|1
+To Target|Header 5 (Green)|ISP2|Header_5|Hed5|1
+RED|LED Single colour Green and Red|LED1, LED3, LED5|Led 0805R|LED|3
+GREEN|LED Single colour Green and Red|LED2, LED4|Led 0805G|LED|2
+ALE|Header 2 (Green)|P1|Header_2|Hed2|1
+JUMP|Header 2 (Green)|P2, P3|Header_2|Hed2|2
+POWER|Connector 4|P5|Header_4|Con4|1
+EA|Header 2 (Green)|P6|Header_2|Hed2|1
+P.Up|Header 2 (Green)|P7|Header_2|Hed2|1
+Pad Big|Pad Big|PD1, PD2||Pad_Big|2
+P3.2|Switch button 2 pin|PUSH|BUTTON 2PIN TRON|SW2|1
+Res2|Resistor|R1, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R14, R15, R16, R17, R18|RESC2012(0805)|Res2|16
+10K|Resistor 8 (Thanh)|RN1|RN8|RN8|1
+Slow|Header 2 (Green)|Speed|Header_2|Hed2|1
+Update|Header 2 (Green)|Update|Header_2|Hed2|1
+USB_MINI||USB1|USBMNIB|USB_MINI|1
+12Mhz|Crystal For all Crystal 2pin.|X1, X2|CRYSTAL|XT2|2
